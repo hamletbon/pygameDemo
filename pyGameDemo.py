@@ -1,4 +1,4 @@
-__author__ = 'hamletlin'
+__author__ = 'hamletlinaksdjhak;sfjhsasd'
 
 import sys, pygame
 pygame.init()
